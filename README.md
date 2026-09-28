@@ -154,7 +154,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👤 Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**BlackSecOps**
+GitHub: [@BlackSecOpss](https://github.com/blacksecopss)
+Telegram: [@BlackSecOps](https://t.me/blacksecops)
 
 ⭐ If you found this useful, consider giving the repo a star!
