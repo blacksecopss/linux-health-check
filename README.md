@@ -35,7 +35,7 @@ The script collects and displays:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/linux-health-check.git
+git clone https://github.com/blacksecopss/linux-health-check.git
 
 # Move into the project folder
 cd linux-health-check
